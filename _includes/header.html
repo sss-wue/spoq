@@ -1,0 +1,25 @@
+      <header>
+        <h1>
+          <a href="{{ "/" | absolute_url }}">
+          {% if site.logo %}
+            <img src="{{site.logo | relative_url}}"
+                alt="{{ site.title | default: site.github.repository_name }} -- {{ site.description | default: site.github.project_tagline }}" />
+          {% else %}
+            {{ site.title | default: site.github.repository_name }}
+          {% endif %}
+          </a>
+        </h1>
+
+        <nav class="site-nav">
+          <ul>
+          {% assign sorted_pages = site.pages | sort:"position" %}
+          {% for page in sorted_pages %}
+            {% unless page.hide_in_menu %}
+              {% if page.title %}
+                <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{page.title}}</a></li>
+              {% endif %}
+            {% endunless %}
+          {% endfor %}
+          </ul>
+        </nav>
+      </header>

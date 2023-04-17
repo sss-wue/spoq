@@ -1,0 +1,76 @@
+/**
+ * Icons
+ */
+.icon {
+
+    > svg {
+        display: inline-block;
+        width: 16px;
+        height: 16px;
+        vertical-align: middle;
+
+        path {
+            fill: $grey-color;
+        }
+    }
+}
+
+footer ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+ul.partners {
+    margin-bottom: 0px;
+
+    li {
+        list-style-type: none;
+        clear: left;
+    }
+
+    img {
+        float: left;
+        width: 30%;
+        margin-right: 20px;
+        margin-bottom: $spacing-unit;
+    }
+}
+ul.partners:after {
+    display: block;
+    content: " ";
+    clear: left;
+    height: 0;
+}
+
+a {
+    color: $link-color;
+}
+
+/* Override settings from theme */
+header ul {
+    background: inherit;
+    border: inherit;
+    li {
+        border-right: none;
+        float: none;
+        width: auto;
+    }
+    li:first-child a, li:last-child a {
+        border-radius: inherit;
+    }
+    a {
+        line-height: unset;
+        font-size: inherit;
+        color: $link-color;
+    }
+    a:hover, a:focus, a:active {
+        color: $link-color;
+        background-color: $grey-color-light;
+    }
+
+    li + li + li {
+        width: auto;
+    }
+}
+
