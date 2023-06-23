@@ -10,7 +10,7 @@ position: 10
 
 Our example news item
 
-Link to the [something](https://google.com/)
+[Konsortialpartnertreffen]([https://google.com/](https://www.aim-d.de/aim-und-konsortialpartner-erarbeiten-verfahren-fuer-die-identifikation-von-produktfaelschungen/)https://www.aim-d.de/aim-und-konsortialpartner-erarbeiten-verfahren-fuer-die-identifikation-von-produktfaelschungen/)
 
 ## another EXAMPLE
 
