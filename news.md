@@ -10,7 +10,7 @@ position: 10
 
 Our example news item
 
-[Konsortialpartnertreffen](https://www.aim-d.de/aim-und-konsortialpartner-erarbeiten-verfahren-fuer-die-identifikation-von-produktfaelschungen/)
+[Konsortialpartnertreffen](https://www.aim-d.de/aim-und-konsortialpartner-erarbeiten-verfahren-fuer-die-identifikation-von-produktfaelschungen/) xxxxx
 
 [Pressemitteilung](https://www.vde.com/de/presse/pressemitteilungen/2023-01-24-ai-plagiate)
 
