@@ -10,7 +10,7 @@ position: 0
 
 ## SPOQ-Hintergrund
 Die deutsche Volkswirtschaft erleidet über 50 Milliarden Euro Schaden durch Produkt- und Markenpiraterie pro Jahr. 97 Prozent der erfassten Plagiate stuften die EU-Marktaufsichtsbehörden als Waren mit ernsthaften Risiken ein. Produktions- und Logistikunternehmen sind machtlos gegen Plagiate: Weltweit gibt es keinen branchen- und grenzübergreifenden Lösungsansatz für die Verifizierung von Produkt-Identitäten. Ebenso gibt es kein global anerkanntes Verfahren mit dem Unternehmen Produktfälschungen erkennen können, ohne dass dafür Informationen zu Lieferketten und -volumina offengelegt werden müssen. Diese Lücke schließt nun das Projekt SPOQ.
-Im Auftrag des Bundesministeriums für Wirtschaft und Klimaschutz ([BMWK](https://www.bmwk.de/Navigation/DE/Home/home.html)) erarbeiteten die [Projektpartner](https://www.google.com/search?q=todo) jetzt eine Methodik für die fälschungssichere Produktkennzeichnung auf Originalprodukten zur Verifizierung der eineindeutigen Identität, die anschließend prototypisch auf Hersteller- und Endanwenderseite in die Praxis umgesetzt werden soll. Plagiaten wird damit der Kampf angesagt.
+Im Auftrag des Bundesministeriums für Wirtschaft und Klimaschutz ([BMWK](https://www.bmwk.de/Navigation/DE/Home/home.html)) erarbeiteten die [Projektpartner](https://sss-wue.github.io/spoq/partners/) jetzt eine Methodik für die fälschungssichere Produktkennzeichnung auf Originalprodukten zur Verifizierung der eineindeutigen Identität, die anschließend prototypisch auf Hersteller- und Endanwenderseite in die Praxis umgesetzt werden soll. Plagiaten wird damit der Kampf angesagt.
 
 ## SPOQ-Ziel
 - Weltweit anwendbare Standardisierung der fälschungssicheren und branchenübergreifende Kennzeichnung von Produkten
