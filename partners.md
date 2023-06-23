@@ -7,7 +7,7 @@ position: 60
 <ul class="partners">
     <li>
         <a href="https://www.aim-d.de/">
-            <img src="./assets/images/logo-uniwue.svg" alt="![AIM-D]assets/images/DE-OS-SCH_noTagline.eps" />
+            <img src="./assets/images/logo-uniwue.svg" alt="Logo AIM-D" />
         </a>
         AIM-D e.V.<br>
         Industrieverband Automatische Identifikation, Datenerfassung und Mobile Kommunikation e.V.)<br>
