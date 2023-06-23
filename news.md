@@ -6,16 +6,14 @@ position: 10
 ---
 
 
-## EXAMPLE
+## Treffen
 
-Our example news item
+[Konsortialpartnertreffen](https://www.aim-d.de/aim-und-konsortialpartner-erarbeiten-verfahren-fuer-die-identifikation-von-produktfaelschungen/)
+Am 23.01.2023 fand das erste Treffen der SPOQ-Konsortialpartner auf Einladung des VDE in Offenbach statt.
 
-[Konsortialpartnertreffen](https://www.aim-d.de/aim-und-konsortialpartner-erarbeiten-verfahren-fuer-die-identifikation-von-produktfaelschungen/) xxxxx
+## Presse
 
 [Pressemitteilung](https://www.vde.com/de/presse/pressemitteilungen/2023-01-24-ai-plagiate)
+Ende Januar 2023 haben die SPOQ-Konsortialpartner eine erste Pressemitteilung zum Projekt veröffentlicht.
 
-## another EXAMPLE
-
-Our second example news item
-
-Link to the [something](https://google.com/)
+## Sonstiges
