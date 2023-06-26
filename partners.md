@@ -7,7 +7,7 @@ position: 60
 <ul class="partners">
     <li>
         <a href="https://www.aim-d.de/">
-            <img src="./assets/images/DE-OS-SCH_noTagline.svg" alt="Logo AIM-D" />
+            <img src="/spoq/assets/images/DE-OS-SCH_noTagline.svg" alt="Logo AIM-D" />
         </a>
         AIM-D e.V.<br>
         Industrieverband Automatische Identifikation, Datenerfassung und Mobile Kommunikation e.V.)<br>
@@ -15,7 +15,7 @@ position: 60
     </li>
     <li>
         <a href="https://www.dke.de/de">
-            <img src="./assets/images/logo-uniwue.svg" alt="Logo DKE" />
+            <img src="/spoq/assets/images/logo-uniwue.svg" alt="Logo DKE" />
         </a>
         DKE<br>
         VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V.<br>
@@ -23,7 +23,7 @@ position: 60
     </li>
     <li>
         <a href="https://www.esm.hs-mannheim.de/institut.html">
-            <img src="./assets/images/logo-uniwue.svg" alt="Logo Hochschule Mannheim" />
+            <img src="/spoq/assets/images/logo-uniwue.svg" alt="Logo Hochschule Mannheim" />
         </a>
         Hochschule Mannheim<br>
         Fakultät für Informationstechnik, ESM-Institut<br>
@@ -31,7 +31,7 @@ position: 60
     </li>
     <li>
         <a href="https://www.kobil.com/en/index.html">
-            <img src="./assets/images/logo-uniwue.svg" alt="Logo Kobil GmbH" />
+            <img src="/spoq/assets/images/logo-uniwue.svg" alt="Logo Kobil GmbH" />
         </a>
         Kobil GmbH<br>
         Sicherheitstechnologien<br>
@@ -39,7 +39,7 @@ position: 60
     </li>
     <li>
         <a href="https://www.pav.de/">
-            <img src="./assets/images/logo-uniwue.svg" alt="Logo PAV Card GmbH" />
+            <img src="/spoq/assets/images/logo-uniwue.svg" alt="Logo PAV Card GmbH" />
         </a>
         PAV Card GmbH<br>
         RFID-Lösungen und IT-Services<br>
@@ -47,7 +47,7 @@ position: 60
     </li>
     <li>
         <a href="https://se.informatik.uni-wuerzburg.de">
-            <img src="/assets/images/logo-uniwue.svg" alt="Logo Uni Würzburg" />
+            <img src="/spoq/assets/images/logo-uniwue.svg" alt="Logo Uni Würzburg" />
         </a>
         Julius-Maximilians-Universität Würzburg<br>
         Lehrstuhl für Software Engineering<br>
