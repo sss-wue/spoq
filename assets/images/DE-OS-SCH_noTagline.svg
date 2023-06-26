@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="552"
+   height="552"
+   viewBox="0 0 552 552"
+   sodipodi:docname="DE-OS-SCH_noTagline.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.1093378"
+     inkscape:cx="113.13055"
+     inkscape:cy="270.4316"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10">
+    <inkscape:page
+       x="0"
+       y="0"
+       id="page8"
+       width="552"
+       height="552" />
+  </sodipodi:namedview>
+  <g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="Page 1"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,552)">
+    <g
+       id="g12"
+       transform="scale(0.1)">
+      <path
+         d="m 1110.44,1109.18 v 753.73 C 963.621,1839.26 890.723,1795.9 891.719,1732.85 v -623.67 c 0,-74.89 36.433,-112.321 109.361,-112.321 72.9,0 109.36,37.431 109.36,112.321 z m 378.35,-348.789 h -378.35 v 66.507 C 1080.89,766.801 991.711,736.75 842.938,736.75 c -219.715,0 -329.571,86.691 -329.571,260.109 v 663.581 c 0,76.85 25.363,143.84 76.113,200.99 50.747,57.12 160.364,128.57 328.84,214.29 117.24,49.26 181.27,88.68 192.12,118.24 v 286.71 c 0,74.87 -36.46,112.32 -109.36,112.32 -72.928,0 -109.361,-37.45 -109.361,-112.32 V 2164.4 H 513.367 v 316.27 c 0,232.51 162.571,348.78 487.713,348.78 325.14,0 487.71,-116.27 487.71,-348.78 V 760.391"
+         style="fill:#1e2f57;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path14" />
+      <path
+         d="M 1977.97,2829.45 H 1604.06 V 760.391 h 373.91 V 2829.45"
+         style="fill:#1e2f57;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path16" />
+      <path
+         d="M 3662.78,760.391 H 3284.43 V 2480.67 c 0,74.87 -36.45,112.32 -109.35,112.32 -72.93,0 -109.37,-37.45 -109.37,-112.32 V 760.391 H 2687.37 V 2480.67 c 0,74.87 -36.47,112.32 -109.37,112.32 -72.92,0 -109.37,-37.45 -109.37,-112.32 V 760.391 H 2090.29 V 2829.45 h 378.34 v -73.89 c 72.91,49.25 173.89,73.89 302.98,73.89 97.54,0 195.57,-39.41 294.1,-118.23 72.89,78.82 164.53,118.23 274.89,118.23 72.9,0 144.83,-22.16 215.78,-66.5 70.92,-44.35 106.4,-138.44 106.4,-282.28 V 760.391"
+         style="fill:#1e2f57;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path18" />
+      <path
+         d="m 1807.33,3934.73 293.42,-293.42 c 9.18,-9.16 9.17,-24.17 0,-33.35 l -293.41,-293.4 c -9.18,-9.19 -24.18,-9.19 -33.37,-0.02 l -293.4,293.42 c -9.18,9.17 -9.17,24.18 0.01,33.36 l 293.4,293.41 c 9.17,9.16 24.18,9.18 33.35,0 v 0"
+         style="fill:#36ad7a;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path20" />
+      <path
+         d="m 2176.11,3565.94 293.43,-293.41 c 9.17,-9.18 9.18,-24.19 0.01,-33.36 l -293.42,-293.41 c -9.18,-9.18 -24.18,-9.18 -33.36,-0.01 l -293.41,293.41 c -9.16,9.18 -9.17,24.18 0.01,33.36 l 293.4,293.43 c 9.17,9.17 24.18,9.16 33.34,-0.01 v 0"
+         style="fill:#7a1b67;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path22" />
+      <path
+         d="m 1575.87,3280.03 c -3.97,-1.51 -8.44,-2.88 -13.49,-4.16 10.33,1.01 20.54,2.78 30.63,5.61 2.36,3.64 3.31,6.88 2.85,9.74 -4.92,-4.14 -11.33,-7.93 -19.99,-11.19 z M 1426.58,3571.29 1720,3277.88 c 9.18,-9.17 9.17,-24.19 0,-33.36 l -293.41,-293.41 c -9.18,-9.18 -24.19,-9.18 -33.37,-0.01 l -293.41,293.42 c -9.17,9.18 -9.17,24.18 0,33.36 l 293.41,293.41 c 9.18,9.17 24.19,9.16 33.36,0 v 0"
+         style="fill:#e0b311;fill-opacity:1;fill-rule:evenodd;stroke:none"
+         id="path24" />
+      <g
+         id="g26"
+         transform="scale(10)">
+        <text
+           xml:space="preserve"
+           transform="matrix(1,0,0,-1,50.1926,47.2441)"
+           style="font-variant:normal;font-weight:bold;font-size:14.8px;font-family:Gotham;-inkscape-font-specification:Gotham-Bold;writing-mode:lr-tb;fill:#100f0d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text30"><tspan
+             x="0 11.327097 21.073187 31.934492 41.228443 50.321213 60.88081 71.97361 81.186493 92.551689 104.08779 115.36509 119.50767 125.24985 129.3934 141.5536 150.71472 159.89539 169.71863 180.24203 190.76645 200.5526 205.22154 215.78113 226.73322 230.87679 238.39436 242.53793 251.63071 262.19028 273.05939 289.30838 299.09454 303.68924"
+             y="0"
+             sodipodi:role="line"
+             id="tspan28">DEUTSCHLAND - ÖSTERREICH – SCHWEIZ</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
