@@ -23,7 +23,7 @@ position: 60
     </li>
     <li>
         <a href="https://www.esm.hs-mannheim.de/institut.html">
-            <img src="/spoq/assets/images/logo-uniwue.svg" alt="Logo Hochschule Mannheim" />
+            <img src="/spoq/assets/images/hm_CO_023_1-5.png" alt="Logo Hochschule Mannheim" />
         </a>
         Hochschule Mannheim<br>
         Fakultät für Informationstechnik, ESM-Institut<br>
