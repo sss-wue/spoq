@@ -51,6 +51,7 @@ position: 60
         </a>
         Julius-Maximilians-Universität Würzburg<br>
         Lehrstuhl für Software Engineering<br>
-        <a href="https://se.informatik.uni-wuerzburg.de">se.informatik.uni-wuerzburg.de</a>
+        <a href="https://se.informatik.uni-wuerzburg.de/secure-software-systems-group/secure-software-systems-group/">Secure Software Systems</a>
+        
     </li>
 </ul>
