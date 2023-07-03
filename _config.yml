@@ -4,7 +4,7 @@ theme: jekyll-theme-minimal
 title: SPOQ
 email: info@SPOQ.de
 description: SPOQ-Projekt (Standardisierte sichere Produktverifizierung zum Schutz von Originalität und Qualität)
-baseurl: "/spoq" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://sss-wue.github.io" # the base hostname & protocol for your site
 github_username:  sss-wue
 repository: sss-wue/spoq 
