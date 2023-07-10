@@ -31,7 +31,7 @@ position: 60
     </li>
     <li>
         <a href="https://www.kobil.com/en/index.html">
-            <img src="/assets/images/logo-uniwue.svg" alt="Logo Kobil GmbH" />
+            <img src="/assets/images/KOBIL_Logo_Black.png" alt="Logo Kobil GmbH" />        
         </a>
         Kobil GmbH<br>
         Sicherheitstechnologien<br>
