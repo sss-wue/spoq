@@ -39,7 +39,7 @@ position: 60
     </li>
     <li>
         <a href="https://www.pav.de/">
-            <img src="/assets/images/logo-uniwue.svg" alt="Logo PAV Card GmbH" />
+            <img src="/assets/images/logo-pav-card.jpg" alt="Logo PAV Card GmbH" />
         </a>
         PAV Card GmbH<br>
         RFID-Lösungen und IT-Services<br>
