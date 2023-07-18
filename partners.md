@@ -15,7 +15,7 @@ position: 60
     </li>
     <li>
         <a href="https://www.dke.de/de">
-            <img src="/assets/images/logo-uniwue.svg" alt="Logo DKE" />
+            <img src="/assets/images/VDE_Logo (1).svg" alt="Logo DKE" />
         </a>
         DKE<br>
         VDE Verband der Elektrotechnik Elektronik Informationstechnik e.V.<br>
