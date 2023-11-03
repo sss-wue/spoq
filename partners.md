@@ -63,12 +63,12 @@ position: 60
     <h1 class="post-title">Stakeholders</h1>
     <ul class="partners">
         <li>
-            <a href="https://link">
-                <img src="/assets/images/logo.svg" alt="Logo Stakeholder" />
+            <a href="https://bluhmsysteme.com/faelschungssicherheit.html)">
+                <img src="/assets/images/logo.svg" alt="Logo Logo Bluhm Systeme" />
             </a>
-            Name<br/>
+            Bluhm Systeme<br/>
             Description<br/>
-            <a href="https://link">link</a>
+            <a href="https://[link">link](https://github.com/sss-wue/spoq/blob/main/assets/images/bluhm_group_logo.jpg)</a>
         </li>
     </ul>
 </div>
