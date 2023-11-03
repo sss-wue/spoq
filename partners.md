@@ -58,28 +58,97 @@ position: 60
     </ul>
 </div>
 
-{% comment %}
 <div id="stakeholders">
     <h1 class="post-title">Stakeholders</h1>
     <ul class="partners">
         <li>
             <a href="https://bluhmsysteme.com/faelschungssicherheit">
-                <img src="/assets/images/logo.svg" alt="Logo Logo Bluhm Systeme" />
+                <img src="/assets/images/bluhm_group_logo.jpg" alt="Logo Bluhm Systeme" />
             </a>
-            Bluhm Systeme<br/>
-            Description<br/>
-            <a href="https://[link">link](https://github.com/sss-wue/spoq/blob/main/assets/images/bluhm_group_logo.jpg)</a>
+            Bluhm Systeme GmbH<br/>
+            <a href="https://www.bluhmsysteme.com/faelschungssicherheit.html">bluhmsysteme.com</a>
+        </li>
+        <li>
+            <a href="http://www.masktech.de/">
+                <img src="/assets/images/MASKTECH_LOGO_CMYK_A.jpg" alt="Logo MaskTech" />
+            </a>
+            MaskTech GmbH<br/>
+            <a href="http://www.masktech.de/">masktech.de</a>
+        </li>
+        <li>
+            <a href="https://www.microsensys.de/">
+                <img src="/assets/images/Microsensys_Coporate-Logo_1000x231.png" alt="Logo Micro-Sensys" />
+            </a>
+            Micro-Sensys GmbH<br/>
+            <a href="https://www.microsensys.de/">microsensys.de</a>
+        </li>
+        <li>
+            <a href="https://neosid.de/">
+                <img src="/assets/images/neosid.png" alt="Logo Neosid" />
+            </a>
+            Neosid Pemetzrieder GmbH & Co. KG<br/>
+            <a href="https://neosid.de/">neosid.de</a>
+        </li>
+        <li>
+            <a href="https://smart-tec.com/de">
+                <img src="/assets/images/smart-TEC_Logo_4c.png" alt="Logo smart-TEC" />
+            </a>
+            smart-TEC GmbH & Co. KG<br/>
+            <a href="https://smart-tec.com/de/">smart-tec.com</a>
         </li>
     </ul>
 </div>
 <div id="supporting-partners">
     <h1 class="post-title">Supporting Partners</h1>
     <ul class="partners">
+        <li>BIBA - Bremer Institut für Produktion und Logistik GmbH
+            <br/>
+            <a href="https://www.biba.uni-bremen.de">biba.uni-bremen.de</a>
+        </li>
         <li>
-            Name<br/>
-            Description<br/>
-            <a href="https://link">link</a>
+Fraunhofer-Institut für Integrierte Schaltungen IIS
+            <br/>
+            <a href="https://www.iis.fraunhofer.de">iis.fraunhofer.de</a>
+        </li>
+        <li>
+Fraunhofer-Institut für Photonische Mikrosysteme IPMS
+            <br/>
+            <a href="https://www.ipms.fraunhofer.de">ipms.fraunhofer.de</a>
+        </li>
+        <li>
+HARTING Deutschland GmbH & Co. KG
+            <br/>
+            <a href="https://www.harting.com/DE/de">harting.com</a>
+        </li>
+        <li>
+ICS GmbH // Informatik Consulting Systems GmbH
+            <br/>
+            <a href="https://www.think-safe-think-ics.de">think-safe-think-ics.de</a>
+        </li>
+        <li>
+LOGISTIKNETZ BERLIN-BRANDENBURG (LNBB)
+            <br/>
+            <a href="https://www.logistiknetz-bb.de">logistiknetz-bb.de</a>
+        </li>
+        <li>
+NXP Semiconductors
+            <br/>
+            <a href="https://www.nxp.com">nxp.com</a>
+        </li>
+        <li>
+Schneider-Kennzeichnung GmbH
+            <br/>
+            <a href="https://www.schneider-kennzeichnung.de">schneider-kennzeichnung.de</a>
+        </li>
+        <li>
+Winckel GmbH
+            <br/>
+            <a href="https://www.winckel.de">winckel.de</a>
+        </li>
+        <li>
+Witte Technology GmbH
+            <br/>
+            <a href="https://www.witte-technology.com">witte-technology.com</a>
         </li>
     </ul>
 </div>
-{% endcomment %}
