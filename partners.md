@@ -58,7 +58,7 @@ position: 60
     </ul>
 </div>
 
-<div id="stakeholders">
+<div id="stakeholders" style="margin-top: 3rem">
     <h1 class="post-title">Stakeholders</h1>
     <ul class="partners">
         <li>
@@ -98,7 +98,7 @@ position: 60
         </li>
     </ul>
 </div>
-<div id="supporting-partners">
+<div id="supporting-partners" style="margin-top: 3rem">
     <h1 class="post-title">Supporting Partners</h1>
     <ul class="partners">
         <li>BIBA - Bremer Institut für Produktion und Logistik GmbH
