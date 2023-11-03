@@ -63,7 +63,7 @@ position: 60
     <h1 class="post-title">Stakeholders</h1>
     <ul class="partners">
         <li>
-            <a href="https://bluhmsysteme.com/faelschungssicherheit.html)">
+            <a href="https://bluhmsysteme.com/faelschungssicherheit">
                 <img src="/assets/images/logo.svg" alt="Logo Logo Bluhm Systeme" />
             </a>
             Bluhm Systeme<br/>
