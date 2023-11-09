@@ -96,6 +96,20 @@ position: 60
             smart-TEC GmbH & Co. KG<br/>
             <a href="https://smart-tec.com/de/">smart-tec.com</a>
         </li>
+        <li>
+            <a href="https://originstamp.com/">
+                <img src="/assets/images/OriginStamp-Logo.png" alt="Logo OriginStamp" />
+            </a>
+            OriginStamp AG<br/>
+            <a href="https://originstamp.com/">originstamp.com</a>
+        </li>
+        <li>
+            <a href="https://www.dynamicelement.com">
+                <img src="/assets/images/Dynamic-Element-Logo.png" alt="Logo Dynamic Element" />
+            </a>
+            DynamicElement AG<br/>
+            <a href="https://www.dynamicelement.com/">dynamicelement.com</a>
+        </li>
     </ul>
 </div>
 <div id="supporting-partners" style="margin-top: 3rem">
