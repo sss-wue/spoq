@@ -19,5 +19,5 @@ www.aim-d.de
 
 Vertretung:
 AIM-D e.V. - vertreten durch den Geschäftsführer Peter Altes 
-Registergericht: Amtsgericht Darmstadt 
+Registergericht: Amtsgericht Darmstadt   
 Registernummer: VR 82059
