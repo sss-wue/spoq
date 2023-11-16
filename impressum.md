@@ -7,8 +7,9 @@ hide_in_menu: true
 
 Angaben gemäß § 5 TMG:  
 
-AIM-Deutschland e.V.
-Verband für Automatische Datenerfassung, Identifikation (Auto ID) und Mobile Anwendungen Deutschland – Österreich – Schweiz  
+AIM-Deutschland e.V. 
+Verband für Automatische Datenerfassung, Identifikation (Auto ID) und Mobile Anwendungen 
+Deutschland – Österreich – Schweiz  
 
 Richard-Weber-Str. 29 
 D-68623 Lampertheim
@@ -18,6 +19,6 @@ info@aim-d.de
 www.aim-d.de  
 
 Vertretung:
-AIM-D e.V. - vertreten durch den Geschäftsführer Peter Altes 
-Registergericht: Amtsgericht Darmstadt   
-Registernummer: VR 82059
+AIM-D e.V. - vertreten durch den Geschäftsführer Peter Altes  
+Registergericht: Amtsgericht Darmstadt  
+Registernummer: VR 82059 
