@@ -69,6 +69,13 @@ position: 60
             <a href="https://www.bluhmsysteme.com/faelschungssicherheit.html">bluhmsysteme.com</a>
         </li>
         <li>
+            <a href="https://www.dynamicelement.com">
+                <img src="/assets/images/Dynamic-Element-Logo.png" alt="Logo Dynamic Element" />
+            </a>
+            DynamicElement AG<br/>
+            <a href="https://www.dynamicelement.com/">dynamicelement.com</a>
+        </li>
+        <li>
             <a href="http://www.masktech.de/">
                 <img src="/assets/images/MASKTECH_LOGO_CMYK_A.jpg" alt="Logo MaskTech" />
             </a>
@@ -90,13 +97,6 @@ position: 60
             <a href="https://neosid.de/">neosid.de</a>
         </li>
         <li>
-            <a href="https://smart-tec.com/de">
-                <img src="/assets/images/smart-TEC_Logo_4c.png" alt="Logo smart-TEC" />
-            </a>
-            smart-TEC GmbH & Co. KG<br/>
-            <a href="https://smart-tec.com/de/">smart-tec.com</a>
-        </li>
-        <li>
             <a href="https://originstamp.com/">
                 <img src="/assets/images/OriginStamp-Logo.png" alt="Logo OriginStamp" />
             </a>
@@ -104,11 +104,11 @@ position: 60
             <a href="https://originstamp.com/">originstamp.com</a>
         </li>
         <li>
-            <a href="https://www.dynamicelement.com">
-                <img src="/assets/images/Dynamic-Element-Logo.png" alt="Logo Dynamic Element" />
+            <a href="https://smart-tec.com/de">
+                <img src="/assets/images/smart-TEC_Logo_4c.png" alt="Logo smart-TEC" />
             </a>
-            DynamicElement AG<br/>
-            <a href="https://www.dynamicelement.com/">dynamicelement.com</a>
+            smart-TEC GmbH & Co. KG<br/>
+            <a href="https://smart-tec.com/de/">smart-tec.com</a>
         </li>
     </ul>
 </div>
