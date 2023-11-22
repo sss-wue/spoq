@@ -15,7 +15,7 @@ Richard-Weber-Str. 29 
 D-68623 Lampertheim  
 Tel. +49 6206 13177   
 Fax +49 6206 13173  
-info@aim-d.de  
+[peter.altes@aim-d.de](mailto:peter.altes@aim-d.de)  
 www.aim-d.de  
 
 Vertretung:  
