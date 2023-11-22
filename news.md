@@ -22,7 +22,7 @@ position: 10
 ## Presse / Artikel
 [Pressemitteilung](https://www.vde.com/de/presse/pressemitteilungen/2023-01-24-ai-plagiate)  
 Ende Januar 2023 haben die SPOQ-Konsortialpartner eine erste Pressemitteilung zum Projekt veröffentlicht.  
-[Artikel]https://www.dasinvestment.com/gold-edelmetall-nachhaltigkeit-schutz-faelschung/)  
+[Artikel](https://www.dasinvestment.com/gold-edelmetall-nachhaltigkeit-schutz-faelschung/)  
 SCHUTZ VOR FÄLSCHUNG: „Gold mit Nachhaltigkeitsnachweis könnte bald wertvoller sein“  
 
 
