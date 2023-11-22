@@ -19,10 +19,11 @@ position: 10
 (3) Im letzten Treffen, am 03.09.2023, haben sich die Konsortialpartner über die bereits erreichten Zwischenergebnisse des Projekts, über die Aufnahme weiterer Stakeholder sowie über die Vorbereitung einer Video-Konferenz mit den Stakeholdern am 24.10.2023 ausgetauscht. In dieser Video-Konferenz wird den Stakeholdern u.a. das Konzept einer VDE-Anwendungsregel / VDE-Spec vorgestellt.  
 
 
-## Presse
+## Presse / Artikel
 [Pressemitteilung](https://www.vde.com/de/presse/pressemitteilungen/2023-01-24-ai-plagiate)  
 Ende Januar 2023 haben die SPOQ-Konsortialpartner eine erste Pressemitteilung zum Projekt veröffentlicht.
-
+[Artikel]https://www.dasinvestment.com/gold-edelmetall-nachhaltigkeit-schutz-faelschung/)  
+SCHUTZ VOR FÄLSCHUNG: „Gold mit Nachhaltigkeitsnachweis könnte bald wertvoller sein“  
 
 
 ## Sonstiges
