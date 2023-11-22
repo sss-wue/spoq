@@ -16,7 +16,7 @@ D-68623 Lampertheim
 Tel. +49 6206 13177   
 Fax +49 6206 13173  
 [peter.altes@aim-d.de](mailto:peter.altes@aim-d.de)  
-www.aim-d.de  
+<a href="https://www.aim-d.de/">www.aim-d.de</a>  
 
 Vertretung:  
 AIM-D e.V. - vertreten durch den Geschäftsführer Peter Altes   
