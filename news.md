@@ -28,4 +28,4 @@ SCHUTZ VOR FÄLSCHUNG: „Gold mit Nachhaltigkeitsnachweis könnte bald wertvoll
 
 ## Sonstiges
 [AIM-Global-Jubilee-Summit 2023](https://www.aimglobal.org/summit2023.html)  
-Anlässlich des 50-jährigen Jubiläums von AIM-Global wird am 17.10.2023 im RMCC in Wiesbaden der AIM-Jubilee-Summit ausgerichtet. Dort wird es u.a. ein Panel geben, das sich mit den Gemeinsamkeiten und Unterschieden des Projekts "Digital Product Passport" (DPP) und SPOQ beschäftigt.
+Anlässlich des 50-jährigen Jubiläums von AIM-Global wurde am 17.10.2023 im RMCC in Wiesbaden der AIM-Jubilee-Summit ausgerichtet. Dort gab es u.a. ein Panel, das sich mit den Gemeinsamkeiten und Unterschieden des Projekts "Digital Product Passport" (DPP) und SPOQ beschäftigt hat. Weitere Infos: 
