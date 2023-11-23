@@ -7,6 +7,8 @@ hide_in_menu: true
 
 UNDER CONSTRUCTION!!!  
 
+{% comment %}
+
 Datenschutzerklärung  
 
 
@@ -108,5 +110,6 @@ YouTube
 Google Web Fonts
 
 
+{% endcomment %}
 
 
