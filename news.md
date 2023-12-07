@@ -29,9 +29,9 @@ SCHUTZ VOR FÄLSCHUNG: „Gold mit Nachhaltigkeitsnachweis könnte bald wertvoll
 ## Sonstiges / SPOQ auf Kongressen  
 In Vorbereitung: Präsentationen des SPOQ-Projekts im Rahmen folgender Veranstaltungen:  
     * [AUTHENTICON](https://authenticon.io), 06.-07.03.2024, Dresden  
-          > Infos: [Katharina.vonKnop@vde.com](mailto:Katharina.vonKnop@vde.com)  
+             > Infos: [Katharina.vonKnop@vde.com](mailto:Katharina.vonKnop@vde.com)  
     * [AIM-Frühjahrsforum 2024](https://www.aim-d.de/events-detail/aim-fruehjahrsforum-2024/), 10.-12.04.2024, Tornesch bei Hamburg  
-          > Infos: [peter.altes@aim-d.de](mailto:peter.altes@aim-d.de)  
+             > Infos: [peter.altes@aim-d.de](mailto:peter.altes@aim-d.de)  
 
 [AIM-Global-Jubilee-Summit 2023](https://www.aimglobal.org/summit2023.html)  
 Anlässlich des 50-jährigen Jubiläums von AIM-Global wurde am 17.10.2023 im RMCC in Wiesbaden der AIM-Jubilee-Summit ausgerichtet. Dort gab es u.a. ein Panel, das sich mit den Gemeinsamkeiten und Unterschieden des Projekts "Digital Product Passport" (DPP) und SPOQ beschäftigt hat. Weitere Infos: [peter.altes@aim-d.de](mailto:peter.altes@aim-d.de)
