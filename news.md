@@ -30,7 +30,7 @@ SCHUTZ VOR FÄLSCHUNG: „Gold mit Nachhaltigkeitsnachweis könnte bald wertvoll
 In Vorbereitung: Präsentationen des SPOQ-Projekts im Rahmen folgender Veranstaltungen:  
     * [AUTHENTICON](https://authenticon.io), 06.-07.03.2024, Dresden  
        > Infos: [Katharina.vonKnop@vde.com](mailto:Katharina.vonKnop@vde.com)  
-    * AIM-Frühjahrsforum 2024, 10.-12.04.2024, Tornesch bei Hamburg  
+    * [AIM-Frühjahrsforum 2024](https://www.aim-d.de/events-detail/aim-fruehjahrsforum-2024/), 10.-12.04.2024, Tornesch bei Hamburg  
        > Infos: [peter.altes@aim-d.de](mailto:peter.altes@aim-d.de)  
 
 [AIM-Global-Jubilee-Summit 2023](https://www.aimglobal.org/summit2023.html)  
