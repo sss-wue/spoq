@@ -76,6 +76,13 @@ position: 60
             <a href="https://www.dynamicelement.com/">dynamicelement.com</a>
         </li>
         <li>
+            <a href="https://www.werkzeug.org/de/home.html">
+                <img src="/assets/images/fwi-logo.png" alt="Fachverband Werkzeugindustrie e.V." />
+            </a>
+            Fachverband Werkzeugindustrie e.V.<br/>
+            <a href="https://www.werkzeug.org/de/home.html">werkzeug.org</a>
+        </li>
+        <li>
             <a href="http://www.masktech.de/">
                 <img src="/assets/images/MASKTECH_LOGO_CMYK_A.jpg" alt="Logo MaskTech" />
             </a>
