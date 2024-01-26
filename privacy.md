@@ -11,13 +11,17 @@ UNDER CONSTRUCTION!!!
 
 Datenschutzerklärung:  
 
+Informationen über die Verarbeitung Ihrer Daten gemäß Art. 13 der Datenschutz-Grundverordnung (DS-GVO)  
+
 Auf unserer Webpage werden keine personenbezogenen Daten erhoben. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.  
 
 Andere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch durch den Website-Betreiber, sobald Sie unsere Website betreten.  
 
 Analyse-Tools und Tools von Drittanbietern kommen nicht zum Einsatz. Cookies werden nicht verwendet.  
 
-SSL- bzw. TLS-Verschlüsselung: Diese Seite nutzt aus Sicherheitsgründen eine SSL-bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.   
+SSL- bzw. TLS-Verschlüsselung: Diese Seite nutzt aus Sicherheitsgründen eine SSL-bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.  
+
+Dessen ungeachtet stehen Ihnen alle üblichen Betroffenenrecht zur Verfügung: Recht auf Auskunft, Recht auf Widerspruch, Recht auf Berichtigung, Recht auf Löschung, Recht auf Einschränkung der Verarbeitung, Recht auf Beschwerde, Recht auf Datenübertragbarkeit sowie das Recht auf Widerspruch gemäß Art. 21 Abs. 1 DS-GVO.  
 
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:    
