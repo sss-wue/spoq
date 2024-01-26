@@ -24,7 +24,7 @@ SSL- bzw. TLS-Verschlüsselung: Diese Seite nutzt aus Sicherheitsgründen eine S
 Dessen ungeachtet stehen Ihnen alle üblichen Betroffenenrechte im Bedarfsfall zur Verfügung: Recht auf Auskunft, Recht auf Widerspruch, Recht auf Berichtigung, Recht auf Löschung, Recht auf Einschränkung der Verarbeitung, Recht auf Beschwerde, Recht auf Datenübertragbarkeit sowie das Recht auf Widerspruch gemäß Art. 21 Abs. 1 DS-GVO.  
 
 
-Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:    
+Die verantwortliche Stellen für die Datenverarbeitung auf dieser Website sind:    
 Name: Peter Altes (AIM-D e.V.: Content / ViSdP) und Moritz Finke (Universität Würzburg: Host)  
 Adresse: Richard-Weber Straße 29 / 68623 Lampertheim  
 Telefon:  ‭+49 6206 13177‬  
