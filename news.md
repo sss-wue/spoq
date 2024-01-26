@@ -16,7 +16,8 @@ position: 10
 [Konsortialpartnertreffen](https://www.aim-d.de/aim-und-konsortialpartner-erarbeiten-verfahren-fuer-die-identifikation-von-produktfaelschungen/)  
 (1) Am 23.01.2023 fand das erste Treffen der SPOQ-Konsortialpartner auf Einladung des VDE in Offenbach statt.  
 (2) Und am 07.03.2023 haben sich die Partner erneut in Offenbach getroffen, um den Projekt-Fortschritt zu resümieren und um das Stakeholdertreffen am 09.05.2023 vorzubereiten.  
-(3) Im letzten Treffen, am 03.09.2023, haben sich die Konsortialpartner über die bereits erreichten Zwischenergebnisse des Projekts, über die Aufnahme weiterer Stakeholder sowie über die Vorbereitung einer Video-Konferenz mit den Stakeholdern am 24.10.2023 ausgetauscht. In dieser Video-Konferenz wird den Stakeholdern u.a. das Konzept einer VDE-Anwendungsregel / VDE-Spec vorgestellt.  
+(3) Im Treffen, am 03.09.2023, haben sich die Konsortialpartner über die bereits erreichten Zwischenergebnisse des Projekts, über die Aufnahme weiterer Stakeholder sowie über die Vorbereitung einer Video-Konferenz mit den Stakeholdern am 24.10.2023 ausgetauscht. In dieser Video-Konferenz wird den Stakeholdern u.a. das Konzept einer VDE-Anwendungsregel / VDE-Spec vorgestellt.  
+(4) Im letzten Treffen, am 23.01.2024 in der Hochschule Mannheim, haben sich die Konsortialpartner über den aktuellen Stand des Projekts ausgetauscht: Präsentiert wurden u.a. zwei SPOQ-Apps (Draft Versions) - einmal mit und einmal ohne Einbindung der Blockchain - sowie eine ebenfalls in Entwicklung befindliche NFC-Lösung. Darüber hinaus haben die Konsortialpartner mit Blick auf die Zielsetzung des Projekts eine erste MindMap für die VDE-SPEC erstellt und über die Einbindung echter Use Cases bei der Entwicklung des Demonstrators diskutiert.  
 
 
 ## Presse / Artikel
