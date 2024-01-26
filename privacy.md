@@ -13,7 +13,7 @@ Datenschutzerklärung:
 
 Auf unserer Webpage werden keine personenbezogenen Daten erhoben. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.  
 
-Andere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie unsere Website betreten. Die Datenverarbeitung auf dieser Website erfolgt durch den Website-Betreiber.  
+Andere Daten werden automatisch beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch durch den Website-Betreiber, sobald Sie unsere Website betreten.  
 
 Analyse-Tools und Tools von Drittanbietern kommen nicht zum Einsatz. Cookies werden nicht verwendet.  
 
