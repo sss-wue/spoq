@@ -21,7 +21,7 @@ Analyse-Tools und Tools von Drittanbietern kommen nicht zum Einsatz. Cookies wer
 
 SSL- bzw. TLS-Verschlüsselung: Diese Seite nutzt aus Sicherheitsgründen eine SSL-bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von “http://” auf “https://” wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.  
 
-Dessen ungeachtet stehen Ihnen alle üblichen Betroffenenrecht zur Verfügung: Recht auf Auskunft, Recht auf Widerspruch, Recht auf Berichtigung, Recht auf Löschung, Recht auf Einschränkung der Verarbeitung, Recht auf Beschwerde, Recht auf Datenübertragbarkeit sowie das Recht auf Widerspruch gemäß Art. 21 Abs. 1 DS-GVO.  
+Dessen ungeachtet stehen Ihnen alle üblichen Betroffenenrechte im Bedarfsfall zur Verfügung: Recht auf Auskunft, Recht auf Widerspruch, Recht auf Berichtigung, Recht auf Löschung, Recht auf Einschränkung der Verarbeitung, Recht auf Beschwerde, Recht auf Datenübertragbarkeit sowie das Recht auf Widerspruch gemäß Art. 21 Abs. 1 DS-GVO.  
 
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:    
