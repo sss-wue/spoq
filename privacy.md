@@ -33,7 +33,7 @@ e-Mail: [peter.altes@aim-d.de](mailto:peter.altes@aim-d.de)
 Adresse: Merianstraße 28 / 63069 Offenbach am Main  
 Telefon: +49 69 6308-0  
 e-Mail: [sebastian.hallensleben@vde.com](mailto:sebastian.hallensleben@vde.com)
-3) Host / Betreiber der Plattform: <a href="https://www.se.informatik.uni-wuerzburg.de/secure-software-systems-group//">[www.se.informatik.uni-wuerzburg.de/secure-software-systems-group/]</a> Die Secure Software Systems Group der Universität Würzburg mit der Software von GitHub <a href="https://www.github.com/">[www.github.com]</a>
+3) Host / Betreiber der Plattform: <a href="https://www.informatik.uni-wuerzburg.de/secure-software-systems-group.de//">[www.informatik.uni-wuerzburg.de/secure-software-systems-group.de]</a> Die Secure Software Systems Group der Universität Würzburg mit der Software von GitHub <a href="https://www.github.com/">[www.github.com]</a>
 
 {% endcomment %}
 
