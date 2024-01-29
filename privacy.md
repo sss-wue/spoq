@@ -32,7 +32,7 @@ e-Mail: [peter.altes@aim-d.de](mailto:peter.altes@aim-d.de)
 2) Sebastian Hallensleben (VDE e.V.)  
 Adresse: Merianstraße 28 / 63069 Offenbach am Main
 Telefon: +49 69 6308-0
-e-Mail:
+e-Mail: 
 
 {% endcomment %}
 
