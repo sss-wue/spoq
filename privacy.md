@@ -25,12 +25,12 @@ Dessen ungeachtet stehen Ihnen alle üblichen Betroffenenrechte im Bedarfsfall z
 
 
 Die verantwortliche Stellen für die Datenverarbeitung auf dieser Website sind:    
-1) Peter Altes (AIM-D e.V.)
+1) Peter Altes (AIM-D e.V.)  
 Adresse: Richard-Weber Straße 29 / 68623 Lampertheim  
 Telefon:  ‭+49 6206 13177‬  
 e-Mail: [peter.altes@aim-d.de](mailto:peter.altes@aim-d.de)
 2) Sebastian Hallensleben (VDE e.V.)  
-Adresse: Merianstraße 28 / 63069 Offenbach am Main
+Adresse: Merianstraße 28 / 63069 Offenbach am Main  
 Telefon: +49 69 6308-0  
 e-Mail: [sebastian.hallensleben@vde.com](mailto:sebastian.hallensleben@vde.com)
 
