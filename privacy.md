@@ -33,7 +33,7 @@ e-Mail: [peter.altes@aim-d.de](mailto:peter.altes@aim-d.de)
 Adresse: Merianstraße 28 / 63069 Offenbach am Main  
 Telefon: +49 69 6308-0  
 e-Mail: [sebastian.hallensleben@vde.com](mailto:sebastian.hallensleben@vde.com)
-3) Host / Betreiber der Plattform: Die Secure Software Systems Group der Universität Würzburg mit der Software von GitHub <a href="https://www.github.com/">[www.github.com]</a>
+3) Host / Betreiber der Website: GitHub (<a href="https://github.com/">github.com</a>)
 
 {% endcomment %}
 
