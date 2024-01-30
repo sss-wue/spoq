@@ -1,15 +1,9 @@
 ---
 layout: page
-title: Privacy
+title: Datenschutzerklärung · Privacy
 permalink: /privacy/
 hide_in_menu: true
 ---
-
-UNDER CONSTRUCTION!!!  
-
-{% comment %}
-
-Datenschutzerklärung:  
 
 Informationen über die Verarbeitung Ihrer Daten gemäß Art. 13 der Datenschutz-Grundverordnung (DS-GVO)  
 
@@ -34,7 +28,5 @@ Adresse: Merianstraße 28 / 63069 Offenbach am Main
 Telefon: +49 69 6308-0  
 e-Mail: [sebastian.hallensleben@vde.com](mailto:sebastian.hallensleben@vde.com)
 3) Host / Betreiber der Website: GitHub (<a href="https://github.com/">github.com</a>)
-
-{% endcomment %}
 
 
