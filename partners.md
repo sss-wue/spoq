@@ -73,8 +73,7 @@ position: 60
                 <img src="/assets/images/Dr-Walser-Dental-Logo.jpg" alt="Logo Dr. Walser Dental" />
             </a>
             Dr. Walser Dental GmbH<br/>
-            <a href="https://www.walser-dental.com">walser-dental.com</a>  
-            <a href=https://www.walser-dental.com/de/aktuelles/neuigkeiten</a>
+            <a href="https://www.walser-dental.com">walser-dental.com</a>
         </li>
         <li>
             <a href="https://www.dynamicelement.com">
