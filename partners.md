@@ -69,6 +69,13 @@ position: 60
             <a href="https://www.bluhmsysteme.com/faelschungssicherheit.html">bluhmsysteme.com</a>
         </li>
         <li>
+            <a href="https://www.walser-dental.com">
+                <img src="/assets/images/Dr-Walser-Dental-Logo.jpg" alt="Logo Dr. Walser Dental" />
+            </a>
+            Dr. Walser Dental GmbH<br/>
+            <a href="https://www.walser-dental.com">walser-dental.com</a>
+        </li>
+        <li>
             <a href="https://www.dynamicelement.com">
                 <img src="/assets/images/Dynamic-Element-Logo.png" alt="Logo Dynamic Element" />
             </a>
