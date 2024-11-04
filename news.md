@@ -8,6 +8,11 @@ position: 10
 
 ## Treffen / (Video-) Konferenzen
 
+[SPOQ: Projektabschluss]
+Das SPOQ-Projekt (Standardisierte sichere Produktverifizierung zum Schutz von Originalität und Qualität) wurde zum 30.09.2024 mit Ende der Förderung durch des BMWK offiziell abgeschlossen. Zentrale Ergebnisse sind eine optische Lösung (Kern: (S)QR-Code) und eine elektronische Lösung (Kern: NFC), also zwei SPOQ-Apps, die beide mit dem Konzept der Blockchain kombiniert werden können (SPOQChain); außerdem wurde ein Demonstrator aufgebaut und ein Prüfkonzept für einen namhaften Industriepartner erarbeitet.  
+Gegenwärtig kommen die Konsortialpartner ihren Berichtspflichten aus dem SPOQ-Projekt nach: Strukturierung und Skizzierung einer VDE-Anwendungsregel / VDE-Spec sowie Abfassung des SPOQ-Schlussberichts für den Projektträger und das BMWK. Darüber hinaus denken die Konsortialpartner darüber nach, wie die Ergebnisse ihren jeweiligen Peer-Groups zugängig gemacht und in welcher Form die Ergebnisse publiziert und genutzt werden können und ob sich ggf. interessante Anschlussprojekte anbieten oder sich selbst initiieren lassen.  
+
+
 [Stakeholdertreffen](assets/images/IMG_3535.jpeg)  
 (1) Am 09.05.2023 haben sich die SPOQ-Stakeholder, also diejenigen Unternehmen, die Interesse an einer Mitarbeit im SPOQ-Projekt haben und ihr Know-how sowie ihre Technologien und Lösungen einbringen möchten, auf Einladung des VDE zusammen mit den SPOQ-Konsortialpartnern in Offenbach getroffen.  
 (2) Am 24.10.2023 haben sich die Konsortialpartner mit den Stakeholdern zu einer Video-Konferenz getroffen. Die Stakeholder wurden über den aktuellen Stand des Projekts informiert: Entwicklung einer SPOQ-App, eines SPOQ-Demonstrators (gegenwärtig basierend auf 2D-Codes und NFC) sowie einer SPOQ-Blockchain. Darüber hinaus hat der VDE das Konzept einer VDE-Anwendungsregel / VDE-Spec vorgestellt. Die Idee wurde seitens der Stakeholder äußerst positiv aufgenommen - und es ist fest damit zu rechnen, dass sich einige Stakeholder zukünftig auch an der Abfassung einer VDE-Anwendungsregel / VDE-Spec beteiligen werden. Im nächsten Schritt wird ein persönliches Stakeholder-Treffen Anfang 2024 vorbereitet.
