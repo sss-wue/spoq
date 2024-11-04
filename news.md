@@ -10,7 +10,6 @@ position: 10
 
 [SPOQ: Projektabschluss](assets/images/IMG_3535.jpeg)  
 Das SPOQ-Projekt (Standardisierte sichere Produktverifizierung zum Schutz von Originalität und Qualität) wurde zum 30.09.2024 mit Ende der Förderung durch des BMWK offiziell abgeschlossen. Zentrale Ergebnisse sind eine optische Lösung (Kern: (S)QR-Code) und eine elektronische Lösung (Kern: NFC), also zwei SPOQ-Apps, die beide mit dem Konzept der Blockchain kombiniert werden können (SPOQChain); außerdem wurde ein Demonstrator aufgebaut und ein Prüfkonzept für einen namhaften Industriepartner erarbeitet.  
-
 Gegenwärtig kommen die Konsortialpartner ihren Berichtspflichten aus dem SPOQ-Projekt nach: Strukturierung und Skizzierung einer VDE-Anwendungsregel / VDE-Spec sowie Abfassung des SPOQ-Schlussberichts für den Projektträger und das BMWK. Darüber hinaus denken die Konsortialpartner darüber nach, wie die Ergebnisse ihren jeweiligen Peer-Groups zugängig gemacht und in welcher Form die Ergebnisse publiziert und genutzt werden können und ob sich ggf. interessante Anschlussprojekte anbieten oder sich selbst initiieren lassen.  
 
 
